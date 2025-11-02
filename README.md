@@ -22,7 +22,7 @@ Também estudo **métodos de organização**, desde organização doméstica at�
 
 ## 📊 Projetos
 
-Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. Cada repositório contém descrição, contexto do problema, base de dados utilizada (quando aplicável) e principais aprendizados.
+Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. 
 
 |Projeto                                                     |Link                    |Ferramentas   |
 |------------------------------------------------------------|------------------------|--------------|
