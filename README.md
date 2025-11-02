@@ -20,18 +20,13 @@ Aplicando e aprofundando meus conhecimentos em **análise**, **modelagem** e **v
 Fora do trabalho, tenho interesse em **literatura de ficção científica** e sempre que possível busco estar em **contato com a natureza**.  
 Também estudo **métodos de organização**, desde organização doméstica até **planejamento e organização financeira**.
 
-
----
-
 ## 📊 Projetos
 
 Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. Cada repositório contém descrição, contexto do problema, base de dados utilizada (quando aplicável) e principais aprendizados.
 
-
 |Projeto                                                     |Link                    |Ferramentas   |
 |------------------------------------------------------------|------------------------|--------------|
 |Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |PowerBI e SQL |
-
 
 ## 📫 Contato
 
