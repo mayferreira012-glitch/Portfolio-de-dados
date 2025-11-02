@@ -1,14 +1,51 @@
-# Mayra Ferreira Silva
+# 👋 Olá! Bem-vindo ao meu portfólio
 
-Sou formada em Engenharia Eletrônica e de Telecomunicações pela Universidade Federal de Uberlândia e possuo pós-graduação em Gestão e Análise de Dados pela PUC Minas. Atuo no setor de telecomunicações e no momento estou direcionando minha trajetória profissional para a área de análise e visualização de dados.
-Este portfólio tem como objetivo registrar e apresentar os projetos que venho desenvolvendo ao longo dessa transição, com foco em SQL, Power BI e Python, aplicando e aprofundando meus conhecimentos em análise, modelagem e visualização de dados.
-Fora do trabalho, tenho interesse em literatura de ficção científica e sempre que possível busco conexão com a natureza. Também estudo métodos de organização, tanto para rotina doméstica quanto para planejamento e organização financeira.
+## 👩🏻‍💻 Sobre mim
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/mayrasillva/)
+Sou formada em **Engenharia Eletrônica e de Telecomunicações** pela Universidade Federal de Uberlândia e possuo **pós-graduação em Gestão e Análise de Dados** pela PUC Minas.  
+Atuo no setor de **telecomunicações** e, no momento, estou direcionando minha trajetória profissional para a área de **análise e visualização de dados**.
+
+## 🎯 Sobre este portfólio
+
+Este repositório tem como objetivo **registrar e apresentar os projetos** que venho desenvolvendo ao longo dessa transição de carreira, com foco em:
+
+- **SQL**
+- **Power BI**
+- **Python**
+
+Aplicando e aprofundando meus conhecimentos em **análise**, **modelagem** e **visualização de dados**.
+
+## 🌱 Além da área de dados
+
+Fora do trabalho, tenho interesse em **literatura de ficção científica** e sempre que possível busco estar em **contato com a natureza**.  
+Também estudo **métodos de organização**, desde organização doméstica até **planejamento e organização financeira**.
+
+---
+
+## 🧰 Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+---
+
+## 📊 Projetos
+
+Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. Cada repositório contém descrição, contexto do problema, base de dados utilizada (quando aplicável) e principais aprendizados.
+
+|Projeto                                                     |Link                    |Ferramentas  |
+|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |PowerBI e SQL |
 
 
-## Projetos:
+## 📫 Contato
 
-* **Estudo sobre a distribuição de bolsas de estudo pelo PROUNI** https://bit.ly/4qMcImL
+- [LinkedIn](https://www.linkedin.com/in/mayrasillva/)  
+- [GitHub](https://github.com/mayferreira012-glitch)  
+- [Email](mailto:mayferreira012@gmail.com)
+
 
