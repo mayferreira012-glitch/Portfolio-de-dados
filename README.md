@@ -27,7 +27,7 @@ Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo
 |Projeto                                                     |Link do Projeto         |Link do Repositório    |Ferramentas   |
 |------------------------------------------------------------|------------------------|-----------------------|--------------|
 |Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |https://bit.ly/47xUY5x |PowerBI e SQL |
-|Análise exploratória de filmes relacionados no IMDb         |https://bit.ly/3Lv2p6y  |N\A                    |Python/Pandas |
+|Análise exploratória de filmes relacionados no IMDb         |https://bit.ly/3Lv2p6y  |https://bit.ly/49AOfcj |Python/Pandas |
 
 ## 📫 Contato
 
