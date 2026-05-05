@@ -17,8 +17,8 @@ Aplicando e aprofundando meus conhecimentos em **análise**, **modelagem** e **v
 
 ## 🌱 Além da área de dados
 
-Fora do trabalho, gosto de ler ficção científica, jogar videogame e aproveitar momentos em contato com a natureza sempre que possível.
-Também tenho interesse em métodos de organização, desde o dia a dia da casa até planejamento e organização financeira.
+Fora do trabalho, tenho interesse em literatura de ficção científica e em videogames, além de buscar momentos de contato com a natureza sempre que possível.
+Também me interesso por métodos de organização, aplicados tanto à rotina doméstica quanto ao planejamento e organização financeira.
 
 ## 📊 Projetos
 
