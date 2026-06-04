@@ -24,11 +24,12 @@ Também me interesso por métodos de organização, aplicados tanto à rotina do
 
 Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. Cada repositório contém descrição, contexto do problema, base de dados utilizada (quando aplicável) e principais aprendizados.
 
-|Projeto                                                     |Link do Projeto         |Link do Repositório    |Ferramentas            |
-|------------------------------------------------------------|------------------------|-----------------------|-----------------------|
-|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |https://bit.ly/47xUY5x |PowerBI/SQL            |
-|Análise exploratória de filmes relacionados no IMDb         |https://bit.ly/3LfZwXo  |https://bit.ly/4qQJItd |Python/Pandas          |
-|Spotify Listening Data Analysis                             |https://bit.ly/4b4pBTj  |https://bit.ly/3NcquA6 |PowerBI/DAX/PowerQuery |
+|Projeto                                                     |Link do Projeto         |Link do Repositório    |Ferramentas                    |
+|------------------------------------------------------------|------------------------|-----------------------|-------------------------------|
+|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |https://bit.ly/47xUY5x |PowerBI/SQL                    |
+|Análise exploratória de filmes relacionados no IMDb         |https://bit.ly/3LfZwXo  |https://bit.ly/4qQJItd |Python/Pandas                  |
+|Spotify Listening Data Analysis                             |https://bit.ly/4b4pBTj  |https://bit.ly/3NcquA6 |PowerBI/DAX/PowerQuery         |
+|Skills: Genie - Databricks                                  |------------------------|https://bit.ly/4epmjLS |Python/Spark/Genie(Databricks) |
 
 ## 📫 Contato
 
