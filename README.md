@@ -29,7 +29,7 @@ Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo
 |Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |https://bit.ly/47xUY5x |PowerBI/SQL                    |
 |Análise exploratória de filmes relacionados no IMDb         |https://bit.ly/3LfZwXo  |https://bit.ly/4qQJItd |Python/Pandas                  |
 |Spotify Listening Data Analysis                             |https://bit.ly/4b4pBTj  |https://bit.ly/3NcquA6 |PowerBI/DAX/PowerQuery         |
-|Skills: Genie - Databricks                                  |------------------------|https://bit.ly/4epmjLS |Python/Spark/Genie(Databricks) |
+|Skills: Run and Jobs costs com IA                           |------------------------|https://bit.ly/4epmjLS |Python/Spark/Genie(Databricks) |
 
 ## 📫 Contato
 
