@@ -8,6 +8,7 @@ Atuo no setor de **telecomunicações** e, no momento, estou direcionando minha 
 ## 🎯 Sobre este portfólio
 
 Este repositório tem como objetivo **registrar e apresentar os projetos** que venho desenvolvendo ao longo dessa transição de carreira, com foco em:
+
 - **SQL**
 - **Power BI**
 - **Python**
