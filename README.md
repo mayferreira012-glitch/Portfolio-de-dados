@@ -8,11 +8,9 @@ Atuo no setor de **telecomunicações** e, no momento, estou direcionando minha 
 ## 🎯 Sobre este portfólio
 
 Este repositório tem como objetivo **registrar e apresentar os projetos** que venho desenvolvendo ao longo dessa transição de carreira, com foco em:
-
 - **SQL**
 - **Power BI**
 - **Python**
-
 Aplicando e aprofundando meus conhecimentos em **análise**, **modelagem** e **visualização de dados**.
 
 ## 🌱 Além da área de dados
@@ -30,6 +28,7 @@ Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo
 |Análise exploratória de filmes relacionados no IMDb         |[Notebook](https://github.com/mayferreira012-glitch/ESTUDO_IMDB/blob/main/IMDB_estudo.ipynb)  |[Arquivos](https://github.com/mayferreira012-glitch/ESTUDO_IMDB)|Python/Pandas                  |
 |Spotify Listening Data Analysis                             |[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAzZDE2YjgtOWEyZi00MzY1LTlhYzEtYmIxZjE5NzRhODYwIiwidCI6IjJiY2MxN2RlLWY5MGItNDJjOC1hZGYwLTE5ZGQwZjFmMGYwNyJ9)  |[Arquivos](https://github.com/mayferreira012-glitch/Spotify-Listening-Data-Analysis)|PowerBI/DAX/PowerQuery         |
 |Skills: Run and Jobs costs com IA                           |N/A|[Arquivos](https://github.com/mayferreira012-glitch/Skills_Genie_Databricks) |Python/Spark/Genie(Databricks) |
+|Data Platform - Campeonato Brasileiro Série A 2026 (Em desenvolvimento)         |N/A|[Arquivos](https://github.com/mayferreira012-glitch/databricks_api_football) |Python/Spark/SQL               |
 
 ## 📫 Contato
 
