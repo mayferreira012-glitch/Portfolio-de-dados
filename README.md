@@ -26,10 +26,10 @@ Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo
 
 |Projeto                                                     |Link do Projeto         |Link do Repositório    |Ferramentas                    |
 |------------------------------------------------------------|------------------------|-----------------------|-------------------------------|
-|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |https://bit.ly/47xUY5x |PowerBI/SQL                    |
-|Análise exploratória de filmes relacionados no IMDb         |https://bit.ly/3LfZwXo  |https://bit.ly/4qQJItd |Python/Pandas                  |
-|Spotify Listening Data Analysis                             |https://bit.ly/4b4pBTj  |https://bit.ly/3NcquA6 |PowerBI/DAX/PowerQuery         |
-|Skills: Run and Jobs costs com IA                           |------------------------|https://bit.ly/4epmjLS |Python/Spark/Genie(Databricks) |
+|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJkZmE3ZjAtOWMxYS00MDNkLWE1ZjItOWM0OTBhNTA0NzRkIiwidCI6IjJiY2MxN2RlLWY5MGItNDJjOC1hZGYwLTE5ZGQwZjFmMGYwNyJ9)               |[Arquivos](https://github.com/mayferreira012-glitch/ESTUDO_PROUNI)|PowerBI/SQL                    |
+|Análise exploratória de filmes relacionados no IMDb         |[Notebook](https://github.com/mayferreira012-glitch/ESTUDO_IMDB/blob/main/IMDB_estudo.ipynb)  |[Arquivos](https://github.com/mayferreira012-glitch/ESTUDO_IMDB)|Python/Pandas                  |
+|Spotify Listening Data Analysis                             |[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAzZDE2YjgtOWEyZi00MzY1LTlhYzEtYmIxZjE5NzRhODYwIiwidCI6IjJiY2MxN2RlLWY5MGItNDJjOC1hZGYwLTE5ZGQwZjFmMGYwNyJ9)  |[Arquivos](https://github.com/mayferreira012-glitch/Spotify-Listening-Data-Analysis)|PowerBI/DAX/PowerQuery         |
+|Skills: Run and Jobs costs com IA                           |N/A|[Arquivos](https://github.com/mayferreira012-glitch/Skills_Genie_Databricks) |Python/Spark/Genie(Databricks) |
 
 ## 📫 Contato
 
