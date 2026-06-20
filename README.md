@@ -11,6 +11,7 @@ Este repositório tem como objetivo **registrar e apresentar os projetos** que v
 - **SQL**
 - **Power BI**
 - **Python**
+
 Aplicando e aprofundando meus conhecimentos em **análise**, **modelagem** e **visualização de dados**.
 
 ## 🌱 Além da área de dados
